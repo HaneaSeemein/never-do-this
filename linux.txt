@@ -1,0 +1,5 @@
+general:
+    always remember your passwords and passphrases
+
+specific:
+    gpg is trash, you rather let your account be stolen

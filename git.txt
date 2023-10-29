@@ -1,0 +1,8 @@
+general:
+    never ignore warning.
+    NEVER IGNORE WARNINGS. (you're risking your entire project)
+
+specific:
+    never go --hard on anything
+    always backup before doing reset
+    never forget to add your big files to .gitignore 
